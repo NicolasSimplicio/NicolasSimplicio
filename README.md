@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
@@ -7,12 +6,12 @@
 
 ## ✨ Sobre mim
 
-Oiiii! Sou estudante de **Análise e Desenvolvimento de Sistemas**, já tendo concluído o curso técnico de **Desenvolvimento de Sistemas na ETEC**.
+Hello hello hello! Sou estudante de **Análise e Desenvolvimento de Sistemas**, já tendo concluído o curso técnico de **Desenvolvimento de Sistemas na ETEC de Guaianazes**.
 
-💻 Apaixonado por programação em **PHP**  
-🎮 Geek de coração — fã de **Pokémon** e tudo que envolve o universo **nerd/pop**  
-🎨 Criativo, comunicativo e sempre em busca de novas experiências  
-🤝 Trabalho bem em equipe, sigo direções e me comprometo com resultados  
+💻 Apaixonado por programação **WEB** e **Banco de Dados**
+🎮 Geek de coração — fã de **Animes**,**Jogos** e tudo que envolve o universo **Nerd**
+🎨 Criativo, comunicativo e sempre em busca de novas experiências
+🤝 Trabalho bem em equipe, sigo direções e me comprometo com resultados
 🚀 Estou em busca de oportunidades que me permitam aplicar conhecimentos e crescer com desafios reais na área de tecnologia.
 
 ---
@@ -32,16 +31,15 @@ Oiiii! Sou estudante de **Análise e Desenvolvimento de Sistemas**, já tendo co
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasSimplicio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSimplicio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-simplicio-dos-santos-anat%C3%B3lio-9a8460257/)
 
 ---
 
